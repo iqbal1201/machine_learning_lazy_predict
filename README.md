@@ -1,3 +1,4 @@
+see the published paper here: https://jurnal.yoctobrain.org/index.php/ijodas/article/view/102 
 # machine_learning_lazy_predict
 ## Machine Learning Classification Satellite Imagery for Land-Use/Land Cover using Lazy Predict
 
